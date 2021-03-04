@@ -51,5 +51,5 @@ $ cd frontend && yarn
 ```bash
 $ backend: yarn dev
 
-$ frontend:yarn start
+$ frontend: yarn start
 ```
