@@ -5,8 +5,8 @@ import './style.css';
 class Button extends React.Component {
     render() {
         return(
-            <button>
-
+            <button className='button'>
+                Get a new random fact!
             </button>
         )
     }
