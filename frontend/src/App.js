@@ -1,9 +1,15 @@
+import Search from './components/Search';
+import Button from './components/Button';
 import './global.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      Hello World
+      <Search>
+
+      </Search>
+      <Button />
     </div>
   );
 }
